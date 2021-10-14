@@ -2,7 +2,7 @@
 记录我参加的Datawhale组队学习，包括笔记和习题解答。
 
 ## 在线阅读地址
-在线阅读地址：https://relph1119.github.io/my-team-learning
+在线阅读地址：https://github.com/StarPolaris/team_learning
 
 ## 目录
 - 第30期树模型与集成学习
